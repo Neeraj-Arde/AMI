@@ -1,0 +1,2 @@
+# AMI
+Amazon machine Image
